@@ -1,0 +1,30 @@
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\bin\Debug\lab6_app.exe.config
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\bin\Debug\lab6_app.exe
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\bin\Debug\lab6_app.pdb
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.csprojResolveAssemblyReference.cache
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.Form1.resources
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.Properties.Resources.resources
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.csproj.GenerateResource.Cache
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.exe
+C:\Users\7500\Desktop\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.pdb
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\bin\Debug\lab6_app.exe.config
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.exe
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.pdb
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\bin\Debug\lab6_app.exe
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\bin\Debug\lab6_app.pdb
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.csprojResolveAssemblyReference.cache
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.Form1.resources
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.Properties.Resources.resources
+F:\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.csproj.GenerateResource.Cache
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\bin\Debug\lab6_app.exe.config
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\obj\Debug\lab6_app.exe
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\obj\Debug\lab6_app.pdb
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\bin\Debug\lab6_app.exe
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\bin\Debug\lab6_app.pdb
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\obj\Debug\lab6_app.csprojResolveAssemblyReference.cache
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\obj\Debug\lab6_app.Form1.resources
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\obj\Debug\lab6_app.Properties.Resources.resources
+E:\Fall-19\visual prog lang\vpl lab\Lab_06\lab6_app\obj\Debug\lab6_app.csproj.GenerateResource.Cache
+F:\university\Semesters\sem9- fall-19\Visual Programming Languaage\vpl Class Working\LAB 6 vpl_lab_miks\lab6_app\lab6_app\bin\Debug\lab6_app.exe.config
+F:\university\Semesters\sem9- fall-19\Visual Programming Languaage\vpl Class Working\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.exe
+F:\university\Semesters\sem9- fall-19\Visual Programming Languaage\vpl Class Working\LAB 6 vpl_lab_miks\lab6_app\lab6_app\obj\Debug\lab6_app.pdb
